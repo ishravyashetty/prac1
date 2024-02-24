@@ -1,2 +1,2 @@
 # prac1
-learning git and github
+fun learning git and github 
