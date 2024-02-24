@@ -3,3 +3,4 @@ number2 = 8
 result = number1 - number2
 print(result)
 print("performs operation")
+print('drink water')
