@@ -11,5 +11,5 @@ print("performs operation")
 print('master')
 
 print('drink water')
-print('prac1 done')
+print('prac1 done done done')
 
